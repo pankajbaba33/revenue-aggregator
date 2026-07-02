@@ -1,4 +1,14 @@
 [
-  { "product": "Apple", "revenue": 300 },
-  { "product": "Orange", "revenue": 150 }
+  {
+    "product": "Apple",
+    "revenue": 700
+  },
+  {
+    "product": "Mango",
+    "revenue": 1000
+  },
+  {
+    "product": "Banana",
+    "revenue": 500
+  }
 ]
